@@ -1,0 +1,7 @@
+flask
+pymongo
+docx2txt
+gensim
+nltk
+pdfminer3
+flask-bcrypt
